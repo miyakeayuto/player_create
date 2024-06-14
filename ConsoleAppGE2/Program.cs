@@ -40,7 +40,6 @@ namespace ConsoleAppGE2
                 Console.WriteLine();
             }
 
-
             //キー入力待ち
             Console.WriteLine("ENTERを押して終了");
             Console.ReadLine();
