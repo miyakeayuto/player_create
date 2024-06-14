@@ -1,5 +1,5 @@
 ﻿//=========================================
-//プレイヤークラス
+//開発技法
 //2024/6/14
 //三宅歩人
 //=========================================
@@ -11,8 +11,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppGE2
 {
-    internal class Player
+    internal class Program
     {
-
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }
